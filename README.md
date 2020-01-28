@@ -1,7 +1,7 @@
 # Police-Shootings-in-the-United-States
 ## About
 It is the second project for the course VE401 Probabilistic Methods in Engineering.
-I toke this course in Spring 2018 in Shanghai Jiao Tong University as a sophomore student. The project is written in LaTeX and
+I toke this course in Spring 2019 in Shanghai Jiao Tong University as a sophomore student. The project is written in LaTeX and
 [PDF version](https://github.com/Gavin-Sun555/Police-Shootings-in-the-United-States/blob/master/401_PJ2.pdf) is provided.
 If you do not have LaTeX installed in your computer but want to view LaTeX code, try website [overleaf](https://www.overleaf.com).
 ## Contact
